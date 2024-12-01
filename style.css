@@ -1,0 +1,121 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #ed1d22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    width: 30%;
+}
+.isinavbar {
+justify-items: center;
+align-items: center;
+display: flex;
+text-decoration: none;
+list-style-type: none;
+
+
+}
+.isi {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    list-style-type: none;
+    margin: 30px;
+
+}
+.home {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+.aisi {
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+.body {
+    background-color: #ed1d22;
+    background-position: center;
+    border-radius: 80px;
+    display: flex;
+    padding: 40px;
+    margin: 20px;
+
+
+}
+.maitake {
+    width: 40%;
+}
+.limaitake {
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+}
+.ulmaitake {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.hai {
+    background-color: rgb(17, 16, 16);
+}
+.home:hover {
+    color: #353839;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+}
+.bobrok {
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2%;
+}
+.img-bobrok {
+    width: 50%;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.isi-bobrok {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.txt-bobrok {
+    background-color: #ed1d22;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 200%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30px;
+}
+.img {
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #343131;
+    border-radius: 10%;
+}
+.isi-img {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 90%;
+    border-radius: 2%;
+}
+.imgg {
+    background-color: #353839;
+}
