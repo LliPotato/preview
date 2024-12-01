@@ -72,12 +72,12 @@ list-style-type: none;
 }
 .bobrok {
     margin-top: 5%;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 2%;
 }
 .img-bobrok {
-    width: 50%;
+    width: 70%;
     border-radius: 100%;
     align-items: center;
     justify-content: center;
@@ -99,6 +99,7 @@ list-style-type: none;
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 30px;
+    padding: 2%;
 }
 .img {
     margin-top: 5%;
