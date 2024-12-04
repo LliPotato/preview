@@ -5,7 +5,7 @@ html {
 }
 
 .navbar {
-    background-color: #ed1d22;
+    background-color: #832829;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@ list-style-type: none;
     
 }
 .body {
-    background-color: #ed1d22;
+    background-color: #a02b2c;
     background-position: center;
     border-radius: 80px;
     display: flex;
@@ -77,19 +77,25 @@ list-style-type: none;
     padding: 2%;
 }
 .img-bobrok {
-    width: 70%;
-    border-radius: 100%;
+    width: 80%;
+    border-radius: 30px;
     align-items: center;
     justify-content: center;
     display: flex;
 }
 .isi-bobrok {
-    align-items: center;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
     justify-content: center;
+    align-items: center;
     display: flex;
+    background-color: #343131;
+    border-radius: 10%;
 }
 .txt-bobrok {
-    background-color: #ed1d22;
+    background-color: #832829;
     color: aliceblue;
     align-items: center;
     justify-content: center;
@@ -103,8 +109,8 @@ list-style-type: none;
 }
 .img {
     margin-top: 5%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -119,4 +125,7 @@ list-style-type: none;
 }
 .imgg {
     background-color: #353839;
+}
+.wm {
+    color: cornsilk;
 }
